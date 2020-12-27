@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/top10-series/static/css/main.9c2fec0e.chunk.css",
+    "main.js": "/top10-series/static/js/main.c0acacfd.chunk.js",
+    "main.js.map": "/top10-series/static/js/main.c0acacfd.chunk.js.map",
+    "runtime-main.js": "/top10-series/static/js/runtime-main.abc06d1b.js",
+    "runtime-main.js.map": "/top10-series/static/js/runtime-main.abc06d1b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/top10-series/static/css/2.31461e4f.chunk.css",
+    "static/js/2.f1efc882.chunk.js": "/top10-series/static/js/2.f1efc882.chunk.js",
+    "static/js/2.f1efc882.chunk.js.map": "/top10-series/static/js/2.f1efc882.chunk.js.map",
+    "static/js/3.d8f0b7e8.chunk.js": "/top10-series/static/js/3.d8f0b7e8.chunk.js",
+    "static/js/3.d8f0b7e8.chunk.js.map": "/top10-series/static/js/3.d8f0b7e8.chunk.js.map",
+    "index.html": "/top10-series/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/top10-series/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9c2fec0e.chunk.css.map": "/top10-series/static/css/main.9c2fec0e.chunk.css.map",
+    "static/js/2.f1efc882.chunk.js.LICENSE.txt": "/top10-series/static/js/2.f1efc882.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc06d1b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.f1efc882.chunk.js",
+    "static/css/main.9c2fec0e.chunk.css",
+    "static/js/main.c0acacfd.chunk.js"
+  ]
+}
